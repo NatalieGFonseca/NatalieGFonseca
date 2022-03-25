@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NatalieGFonseca
 - :dart: I’m interested in to learn about everything that involved web development (front-end and back-end)
 - 👀 I’m currently learning Java, Angular, SpringBoot, PHP, NodeJS, etc
-- :office: I worked at COMPSIS like a Java developer
+- :office: I worked at COMPSIS like a FullStack developer
 - 📫 It's my LinkedIn www.linkedin.com/in/nataliegomesfonseca
 
 <!---
