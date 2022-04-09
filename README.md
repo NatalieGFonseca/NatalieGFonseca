@@ -39,6 +39,8 @@
 </div>
   
   ##
+  <a href="https://github.com/NatalieGFonseca">Portfolio</a>
+  ##
   <h2>Contacts</h2>
 <div> 
   <a style="padding: 10px" href = "mailto:nataliegf2017@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
