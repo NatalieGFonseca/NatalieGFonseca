@@ -1,4 +1,4 @@
-## Hi, I'm Natalie! I'm a Web FullStack Developer
+## Hi, I'm Natalie! I'm a FullStack Developer
 
 <div align="center">
   <a href="https://github.com/NatalieGFonseca">
